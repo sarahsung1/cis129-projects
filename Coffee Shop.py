@@ -61,7 +61,7 @@ print(f"Subtotal: ${subTotal}")
 print(f"Tax: ${taxCost}")
 print("------")
 print(f"Total: ${totalCost}")
-print("*********************************")
+print("*********************************\n\n")
 print("Thank you for ordering, come back soon!")
 
 
