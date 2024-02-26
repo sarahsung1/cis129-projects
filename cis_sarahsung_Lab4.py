@@ -6,7 +6,7 @@
 #declare local variables
 
 #monthly sales amount
-monlthySales = 0
+monthlySales = 0
 
 #store bonus amount
 storeAmount = 0
@@ -37,7 +37,7 @@ else:
 
 #this code gets the percent of increase in sales
 salesIncrease = float(input('Enter sales increase: ')
-salesIncrease = salesIncrease/100
+salesIncrease = salesIncrease / 100
 
 #this code determines the empAmount bonus
 if salesIncrease >= .05:
